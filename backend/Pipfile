@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+alembic = "*"
+blinker = "*"
+click = "*"
+Flask-Migrate = "*"
+importlib_metadata = "*"
+itsdangerous = "*"
+Jinja2 = "*"
+Mako = "*"
+MarkupSafe = "*"
+typing_extensions = "*"
+Werkzeug = "*"
+zipp = "*"
+flask = "*"
+psycopg2-binary = "*"
+psycopg2 = "*"
+flask-sqlalchemy = "*"
+sqlalchemy = "*"
+python-dotenv = "*"
+setuptools = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
